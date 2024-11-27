@@ -16,3 +16,8 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 -->
 
+
+## Project List
+
+[Projects detail can be found here](/Projects/PROJECTS.md)
+
