@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 ## Skills
 - Cisco UCCE, PCCE
 - Genesys Cloud CX (Administration, Implementation,SIP,IVR,ACD Routing and Integration)
-- IVR Applications Development (Genesys/CISCO), CRM/3rd party system Integrations. - - - Inbound,Outbound,In-Queue,Email and Chat.
+- IVR Applications Development (Genesys/CISCO), CRM/3rd party system Integrations,Inbound,Outbound,In-Queue,Email and Chat.
 - Dialog Flow CX, Conversational AI, Chatbots, UCaaS, CCaaS.
 - Dashboard,Reports(CUIC/Custom), Finesse Gadget Development
 - Java, JEE,Spring boot, Java,OOP Script, Voice XML, Node Js, JSON,DB
