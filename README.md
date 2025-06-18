@@ -1,23 +1,5 @@
 # Hi, I’m Malik Irfan 👋
 
-<!--
-**malik-irfan/malik-irfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-<!--
-- 🔭 I’m a Software Developer / IVR Analyst
-- 🦚 Currently working to grow Mannai in software industory.
-- 🌱 I’m currently learning microservices, Conversational AI, and CC tech...
--->
-<!-- - 👯 I’m looking to collaborate on ...
-*- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## About Me
 I’m a Contact Center Technology and Business Process Automation specialist with 6+ years of experience building AI-powered, omni-channel customer experience solutions. I focus on designing intelligent IVRs, AI chatbots, and automated workflows that streamline support operations and improve customer satisfaction.
 
