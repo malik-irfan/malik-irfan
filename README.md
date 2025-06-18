@@ -1,13 +1,14 @@
-## About Me 😎
+# Hi, I’m Malik Irfan 👋
 
 <!--
 **malik-irfan/malik-irfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
+<!--
 - 🔭 I’m a Software Developer / IVR Analyst
 - 🦚 Currently working to grow Mannai in software industory.
 - 🌱 I’m currently learning microservices, Conversational AI, and CC tech...
+-->
 <!-- - 👯 I’m looking to collaborate on ...
 *- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,107 +17,41 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'>
- &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/im-irfanmalik">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
 
+## About Me
+I’m a Contact Center Technology and Business Process Automation specialist with 6+ years of experience building AI-powered, omni-channel customer experience solutions. I focus on designing intelligent IVRs, AI chatbots, and automated workflows that streamline support operations and improve customer satisfaction.
 
+I’m passionate about integrating cutting-edge AI, conversational platforms, and scalable backend microservices to transform how businesses engage with their customers.
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:m.irfanawan77@gmail.com'>m.irfanawan77@gmail.com</a>
-</p>
+---
 
+## 🚀 What I Do
 
-## Skills
-- Cisco UCCE, PCCE
-- Genesys Cloud CX (Administration, Implementation,SIP,IVR,ACD Routing and Integration)
-- IVR Applications Development (Genesys/CISCO), CRM/3rd party system Integrations,Inbound,Outbound,In-Queue,Email and Chat.
-- Dialog Flow CX, Conversational AI, Chatbots, UCaaS, CCaaS.
-- Dashboard,Reports(CUIC/Custom), Finesse Gadget Development
-- Java, JEE,Spring boot, Java,OOP Script, Voice XML, Node Js, JSON,DB
-- Microservices REST/SOAP, Java Standalone Apps,
-- HTML,CSS,JQuery,BootStrap,Angular,Android,Google map API,Firebase
-- MS-SQL,MS Visio,MS Office,Wireshark, Apache Tomcat,IIS,Task Scheduler
-- Eclipse,Intellij,NetBean,Visual Studio,Webex,Microsoft Team
-- Git,Github, Jira Confluence,Fresh desk, Verint, 
+- Develop conversational IVRs, AI chatbots, and voice bots  
+- Integrate platforms like Cisco UCCE/PCCE, Genesys Cloud CX, and Dialogflow  
+- Automate lead generation, appointment scheduling, cold calling, and ticketing  
+- Build scalable backend microservices with Java, Spring Boot, and REST APIs  
+- Implement LLM & generative AI-powered intelligent automation  
 
+---
 
+## 🛠️ Tech Stack
 
+- **Languages:** Java, JavaScript (Node.js), VoiceXML, SQL, JSON  
+- **Platforms:** Cisco UCCE/PCCE, Genesys Cloud CX, Dialogflow CX  
+- **Frameworks:** Spring Boot, Microservices  
+- **AI & Automation:** Botpress, ChatGPT, Voiceflow, VAPI, make.com  
+- **Web:** HTML, CSS, Bootstrap, Angular, JQuery  
+- **Databases:** MS-SQL, Firebase  
+- **Tools:** Git, GitHub, Jira, Confluence, Freshdesk, Verint  
 
-
-
-<details>
-  <summary>📃 Resume</summary>
-
-
-## Experience
-
-### Telecom & Network Consultant
-<div>
-    <div align=""> <bold>📆 2023 - Present </bold> </div>
-</div>
-<div >
-    <div align=""> <bold>📍 Mannai Corporation QPSC</bold> </div>
-</div>
-Leading the call center operations with expertise in IVR applications, Adapter development, report generation(CUIC/Custom) and ensuring smooth UCCE/PCCE and NOC support. Build dynamic IVR call flows integrated with CRM, Verint and 3rd party system, an adapter connecting Freshchat and Verint, reports on customer requirements,handling databases. Build conversation AI chatbot Google dialog flow CX - VXML, Java,JSON,Cisco CUIC,MS SQL,Transact-sql 
-
-
-
-### Senior Project Engineer Voice
-<div>
-    <div align=""> <bold>📆 Dec 21 - Jan 22 </bold> </div>
-</div>
-<div >
-    <div align=""> <bold>📍 Mindbridge</bold> </div>
-</div>
-Worked with the Mindbridge and Telenor team to oversee the projects comprehensively. Project requirements, designing, developing, testing and deployment. Developed 4 IVR applications and 7+ revamped which decreased 45% agent utilization, dashboard to show customer interaction history.   - VXML, Java,JSON,Cisco CUIC,MS SQL,Transact-sql,Node Js
-
-
-
-
-### Project Development Specialist 
-<div>
-    <div align=""> <bold>📆 Jul 18- Nov 21 </bold> </div>
-</div>
-<div >
-    <div align=""> <bold>📍 MExpertflow</bold> </div>
-</div>
-Developed 13+ IVR applications (Self Service, Integrated CRM/3rd party), One Window Finesse Gadget(integrated with multiple backend systems), 7+ Adapters & Microservices. -  VXML, Java,Node Js, Angular, HTML, CSS, Java Script, REST/SOAP, DB,SP,Transact-sql, Docker.  (PTCL, Telenor, Bank Misr, MCB, KCB Bank Kenya)
-
-
-
-
-
-
-
-## Education
-
-- 📖 **Bachelor of Computer Science**\
-📆 2013 - 2017\
-📍 **University of Sargodha** - Punjab, Pakistan
-
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 
 <!-- Project Detail -->
 
 
-
+## 📂 Featured Projects
 
 <details>
   <summary>📃 Projects</summary>
@@ -400,12 +335,31 @@ For developers, One Window Connector offers a RESTful API solution that abstract
 </div>
 
 
-
-
-
-
-
-
 </details>
+<!-- Project end -->
+
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/im-irfanmalik)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.irfanawan77@gmail.com)
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my projects and reach out.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
