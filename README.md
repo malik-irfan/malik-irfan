@@ -23,7 +23,7 @@ I’m a Contact Center Technology and Business Process Automation specialist wit
 
 I’m passionate about integrating cutting-edge AI, conversational platforms, and scalable backend microservices to transform how businesses engage with their customers.
 
----
+
 
 ## 🚀 What I Do
 
@@ -33,7 +33,7 @@ I’m passionate about integrating cutting-edge AI, conversational platforms, an
 - Build scalable backend microservices with Java, Spring Boot, and REST APIs  
 - Implement LLM & generative AI-powered intelligent automation  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@ I’m passionate about integrating cutting-edge AI, conversational platforms, an
 - **Databases:** MS-SQL, Firebase  
 - **Tools:** Git, GitHub, Jira, Confluence, Freshdesk, Verint  
 
----
+
 
 
 <!-- Project Detail -->
@@ -344,7 +344,7 @@ For developers, One Window Connector offers a RESTful API solution that abstract
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/im-irfanmalik)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.irfanawan77@gmail.com)
 
----
+
 
 *Thanks for visiting my profile! Feel free to explore my projects and reach out.*
 
