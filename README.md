@@ -36,8 +36,7 @@ I’m passionate about integrating cutting-edge AI, conversational platforms, an
 ## 📂 Featured Projects
 
 <details>
-  <summary>📃 Projects</summary>
-
+<summary>Freshchat Text Interaction Capture Adapter</summary>
 
 ## Freshchat Text Interaction Capture Adapter
 📆 2024
@@ -81,7 +80,12 @@ The Freshchat Text Interaction Adapter key benifits:\
   </a>
 </p>
 
+</details>
 
+
+
+<details>
+<summary>Genesys Cloud CX Integration with Google Dialogflow</summary>
 
 ## Genesys Cloud CX Integration with Google Dialogflow
 📆 2024
@@ -94,6 +98,11 @@ Google Dialogflow, as a powerful Virtual Agent, is trained with specific data to
 
 Once integrated with Genesys Cloud, the Dialogflow bot is incorporated into the Architect call flows, allowing the system to call the bot when an inbound interaction occurs. This seamless integration ensures that customers can interact with the bot through a natural conversation, reducing the time needed to connect with agents while still offering the option for human assistance when necessary.
 
+</details>
+
+
+<details>
+<summary>Contact Center Reporting & Dashboard Development | CUIC Custom Reports</summary>
 
 ## Developed/Managed 30+ Reports & Dashboards (CUIC / Custom)
 📆 2023-2024
@@ -104,7 +113,10 @@ The custom reports were designed to fetch and present data from the contact cent
 
 The dashboards I developed served as real-time visualization tools, consolidating key performance metrics into a user-friendly interface. These dashboards allowed both agents and managers to quickly assess performance, identify bottlenecks, and make real-time adjustments to improve the customer experience. With these custom dashboards and reports, contact center operations became more streamlined, enabling efficient monitoring of day-to-day activities and empowering teams to provide enhanced service and support.
 
+</details>
 
+<details>
+<summary>7+ IVR Applications for Telenor Pakistan | IVR System Development</summary>
 
 ## 7+ IVR Applications (Telenor Pakistan)
 📆 2022
@@ -140,8 +152,11 @@ These helplines are fully integrated with Telenor's backend CRM system, third-pa
 </div>
 
 
+</details>
 
 
+<details>
+<summary>JBoss Connector API Integration for IVR Systems | REST API Bridge</summary>
 
 ## JBOSS Connector (REST API-based Bridge)
 📆 2022
@@ -168,6 +183,11 @@ The Jboss Connector abstracts the complexities of the underlying backend systems
 </div>
 
 
+</details>
+
+
+<details>
+<summary>SMPP Connector Integration for SMS Messaging | Real-Time SMS API Solution</summary>
 
 ## SMPP Connector
 📆 2022
@@ -189,8 +209,11 @@ In the case of Telenor's IVR applications, the SMPP Connector is used to send cr
 </div>
 
 
+</details>
 
-<!-- Projects for PTCL -->
+
+<details>
+<summary>PTCL 1218 Helpline IVR Application | Self-Service Customer Support</summary>
 
 ## PTCL 1218 Helpline (IVR Application - Cisco) 
 📆 2018-2021
@@ -208,8 +231,6 @@ Developed using Cisco Call Studio, PTCL 1218 is a VXML application that operates
 
 #### 🔨 Tools & Technology
 
-
-
 <p align="center">
   <img src="./Projects/project_design/cisco-icon.png" width="55" height="55"/>
   <img src="./Projects/project_design/vxml.png" width="55" height="55"/>
@@ -218,19 +239,21 @@ Developed using Cisco Call Studio, PTCL 1218 is a VXML application that operates
   </a>
 </p>
 
+</details>
 
 
+<details>
+<summary>Post Call Survey IVR Application | Real-Time Customer Feedback</summary>
 
-
-## PTCL Post Call Survey (IVR Application - Cisco) 
+## Post Call Survey (IVR Application - Cisco) 
 📆 2018-2021
 
 **What is it?**\
-PTCL PCS: A Post-Call Survey Solution for Instant Customer Feedback.
+PCS: A Post-Call Survey Solution for Instant Customer Feedback.
 Gathers Insights on Service Quality and Satisfaction for Continuous Improvement.
 
 **How does it work?**\
-PTCL PCS (Post Call Survey) works by collecting immediate feedback from customers after their interaction with support agents. Once the call ends, the system prompts the customer to participate in a brief survey, typically consisting of questions about service quality, agent helpfulness, and overall satisfaction. These questions are designed to gauge the customer’s experience and gather actionable insights that can drive service improvements.
+PCS (Post Call Survey) works by collecting immediate feedback from customers after their interaction with support agents. Once the call ends, the system prompts the customer to participate in a brief survey, typically consisting of questions about service quality, agent helpfulness, and overall satisfaction. These questions are designed to gauge the customer’s experience and gather actionable insights that can drive service improvements.
 
 The survey is seamlessly integrated with PTCL's CRM systems, ensuring that the feedback is linked directly to specific customer interactions. This integration allows for personalized insights, helping the company better understand customer needs and expectations. The primary goal of PTCL PCS is not only to measure customer satisfaction but also to identify areas for enhancement in service delivery, ultimately improving the overall customer experience.
 
@@ -249,10 +272,11 @@ The survey is seamlessly integrated with PTCL's CRM systems, ensuring that the f
   </a>
 </p>
 
+</details>
 
 
-
-
+<details>
+<summary>One-Window Unified Agent Interface | Optimizing Customer Support Efficiency</summary>
 
 ## One-Window: A Unified Agent Interface 
 📆 2018-2021
@@ -291,9 +315,11 @@ The solution allows agents to perform a variety of tasks directly from the inter
     <img src="https://skillicons.dev/icons?i=postman,github,git" />
   </a>
 </p>
+</details>
 
 
-
+<details>
+<summary>One-Window Connector | API Bridge for Seamless Integration</summary>
 
 ## One-Window-Connector 
 📆 2018-2021
@@ -315,9 +341,8 @@ For developers, One Window Connector offers a RESTful API solution that abstract
   <img src="https://skillicons.dev/icons?i=java,docker,idea,eclipse,postman,github,git,stackoverflow,sublime" />
   <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
 </div>
-
-
 </details>
+
 <!-- Project end -->
 
 
