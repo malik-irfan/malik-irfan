@@ -31,9 +31,53 @@ I’m passionate about integrating cutting-edge AI, conversational platforms, an
 
 
 <!-- Project Detail -->
-
-
 ## 📂 Featured Projects
+
+<details>
+<summary> Customer Support Transformation | Chatbot & IVR Redesign</summary>
+
+## AI-Powered Contact Center Automation
+
+### Customer Support Transformation | Chatbot & IVR Redesign
+
+For a leading automotive services provider, I led the redesign and redevelopment of their contact center experience using Genesys Cloud CX. The existing chatbot and IVR were ineffective—overloading agents with repetitive queries and lacking intelligent automation.
+
+Over a 2-month period, I rebuilt the chatbot and voice bot flows, crafted a robust knowledge base, and optimized self-service journeys. The result: faster customer responses, reduced agent load, and over 60% of interactions resolved without human involvement.
+
+
+#### Tools & Technologies:
+Genesys Cloud CX, AI Chatbot Design, IVR Flow Design, Knowledge Base Curation, CRM Integration
+
+#### Key Achievements:
+- Reduced agent handle time by 40%
+
+- Offloaded 30% of overall call/chat volume to automation
+
+- Shifted over 45% of customer interactions to self-service
+
+- Improved customer experience and response consistency
+
+- Built scalable AI-driven support flows
+
+
+#### Project Highlights:
+- Redesigned chatbot and IVR flows from scratch
+
+- Created a structured, AI-optimized knowledge base
+
+- Deployed intelligent escalation logic to agents
+
+- Improved automation rate with smarter NLP handling
+
+- Cut repetitive workload on agents significantly
+
+
+[See Full Case Study](/project-case-study/AI-Powered%20CC%20Bots%20Automation-%20CaseStudy.pdf)
+
+</details>
+
+
+---
 
 <details>
 <summary>Freshchat Text Interaction Capture Adapter</summary>
@@ -70,6 +114,7 @@ The Freshchat Text Interaction Adapter key benifits:\
 * Allow organizations to use Verint Quality Management to evaluate the quality of those interactions which occur through Freshchat communication platform
 * Enable Verint Text Analytics to process Freshchat Chat interactions and gain insights through sentiment analysis, categorization, and key driver analysis
 
+[See Full Case Study](/project-case-study/Freshchat%20Text%20Interaction%20Capture%20Adapter-CaseStudy.pdf) to dive into the architecture, challenges, and outcomes of this project.
 
 
 #### 🔨 Tools & Technology
