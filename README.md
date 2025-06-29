@@ -22,7 +22,7 @@ I’m passionate about integrating cutting-edge AI, conversational platforms, an
 - **Languages:** Java, JavaScript (Node.js), VoiceXML, SQL, JSON  
 - **Platforms:** Cisco UCCE/PCCE, Genesys Cloud CX, Dialogflow CX  
 - **Frameworks:** Spring Boot, Microservices  
-- **AI & Automation:** Botpress, ChatGPT, Voiceflow, VAPI, make.com  
+- **AI & Automation:** N8N, Make.com, VAPI AI, Botpress, ChatGPT, Voiceflow
 - **Web:** HTML, CSS, Bootstrap, Angular, JQuery  
 - **Databases:** MS-SQL, Firebase  
 - **Tools:** Git, GitHub, Jira, Confluence, Freshdesk, Verint  
@@ -77,7 +77,6 @@ Genesys Cloud CX, AI Chatbot Design, IVR Flow Design, Knowledge Base Curation, C
 </details>
 
 
----
 
 <details>
 <summary>Freshchat Text Interaction Capture Adapter</summary>
@@ -143,6 +142,7 @@ Google Dialogflow, as a powerful Virtual Agent, is trained with specific data to
 
 Once integrated with Genesys Cloud, the Dialogflow bot is incorporated into the Architect call flows, allowing the system to call the bot when an inbound interaction occurs. This seamless integration ensures that customers can interact with the bot through a natural conversation, reducing the time needed to connect with agents while still offering the option for human assistance when necessary.
 
+[See Full Case Study](/project-case-study/Genesys%20Cloud%20CX%20Integration%20with%20Google%20Dialogflow-%20CaseStudy.pdf)
 </details>
 
 
@@ -157,6 +157,8 @@ I developed over 30 + reports and dashboards to meet the unique demands of conta
 The custom reports were designed to fetch and present data from the contact center’s underlying database, allowing managers to gain detailed insights into call volumes, agent performance, customer satisfaction, and wait times. I enabled the creation of custom queries to retrieve specific data sets, and also ensured that the reports could be easily customized to present relevant data to different stakeholders. This made the reports highly adaptable and accessible to various teams within the organization, from supervisors to top-level management, based on their role and requirements.
 
 The dashboards I developed served as real-time visualization tools, consolidating key performance metrics into a user-friendly interface. These dashboards allowed both agents and managers to quickly assess performance, identify bottlenecks, and make real-time adjustments to improve the customer experience. With these custom dashboards and reports, contact center operations became more streamlined, enabling efficient monitoring of day-to-day activities and empowering teams to provide enhanced service and support.
+
+[See Full Case Study](/project-case-study/CaseStudy-Reports-Dashboards.pdf)
 
 </details>
 
